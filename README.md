@@ -1,0 +1,4 @@
+SpringIntegrationSamples
+========================
+
+Spring Integration Samples
